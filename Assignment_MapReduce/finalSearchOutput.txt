@@ -1,0 +1,2 @@
+The keywords matching with my data: [('EXPENSIVE', 3), ('FRIENDLY', 2), ('POLLUTION', 1)]
+The maximum occurred word: ('EXPENSIVE', 3)
